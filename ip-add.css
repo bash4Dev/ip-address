@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 70%;
+    height: 50%;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(./images/pattern-bg-desktop.png);
+    height: 8rem;
+}
+h1 {
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 5px;
+    padding: 10px 0;
+}
+input {
+    text-align: center;;
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
